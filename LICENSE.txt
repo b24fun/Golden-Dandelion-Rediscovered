@@ -1,0 +1,34 @@
+b24fun's License
+
+Copyright (c) 2026 b24fun
+
+License version: 1.0
+
+All rights reserved.
+
+This content is the intellectual property of the author (b24fun).
+No ownership or rights are transferred by this license.
+
+Definitions:
+    "content" should mean, all the datapacks, resource packs, texture packs, documentation, modpacks, code and assets created by the author.
+
+You are permitted to:
+1. Use this content for personal gameplay.
+2. Include this content in modpacks, public and private servers and lan worlds, provided that:
+   - The content is distributed in its original, unmodified form
+   - Proper credit is given to the author
+   - The name of the content, the author, and a link to the original download page are provided
+   - The modpack is distributed free of charge, free of paywalls, and free of required ads to access this content
+
+You are NOT permitted to:
+1. Reupload or redistribute this content on any platform other than the original download page.
+2. Modify, decompile, or create derivative works and redistribute them.
+3. Use this content for commercial purposes without explicit permission.
+4. Claim ownership of this content.
+5. Use this content to train AI, neural networks, or any generative system.
+
+Special Permissions:
+The author may grant written permission for redistribution, modification, or commercial use on a case-by-case basis. Such permissions are granted solely at the discretion of the author and must be documented in writing.
+
+This content is provided "as is", without warranty of any kind.
+The author is not responsible for any damages arising from its use.
