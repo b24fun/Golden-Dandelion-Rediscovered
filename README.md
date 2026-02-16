@@ -1,12 +1,15 @@
 # Golden Dandelion Rediscovered
-Makes the golden dandelion only obtainable from the sniffer.
-This is a simple datapack that adds the ability to the sniffer to dig a golden dandelion and removes the crafting recipe.
+Golden Dandelion Rediscovered is a datapack that adds the ability to the sniffer to dig a golden dandelion and removes the crafting recipe so the players can't craft them.
 
-Since mojang forgot about the sniffer, I fixed it!
+# Compatibility
+The datapack is compatible from 26.1 Snapshot 5 to the most recent version.
 
+# FAQ
+**Q: Can I have a mod/datapack that modifies sniffer digging drops?**  
+A: No, the mod/datapack will most likely break. But if there is demand I will make a compat fix. You can suggest on [github](https://github.com/b24fun/Golden-Dandelion-Rediscovered/issues).
 
-### **Warning**
+# Incopatible mods/resource packs
+No incopatible mods/datapack packs reported (If you found one, you can make a issue on [github]([https://github.com/b24fun/Fix_stairs/issues](https://github.com/b24fun/Golden-Dandelion-Rediscovered/issues)))
 
-If you have another datapack/mod/plugin that modifies sniffer drops, they might break. In that case, make an issue on [GitHub](https://github.com/b24fun/Golden-Dandelion-Rediscovered/issues).
-
-You can find it on modrinth at [Golden Dandelion Rediscovered](https://modrinth.com/datapack/golden-dandelion-rediscovered)
+# Original download
+- [Modrinth](https://modrinth.com/datapack/golden-dandelion-rediscovered)
